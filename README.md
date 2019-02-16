@@ -128,3 +128,5 @@ Visualization of above explained strategy
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
+### Predictions Using Trained Model
+![insample_acc](./Output.PNG)
